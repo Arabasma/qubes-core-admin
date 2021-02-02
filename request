@@ -1,0 +1,6 @@
+hello @bxatnarf Sorry to bother you, I'm Asma Arab and I'm currently working on a service migration project in 5G networks. 
+I am currently studying Popcorn Linux in order to understand how I can use it in my work. I have a few questions about the Popcorn Linux project, 
+especially fault page handling. I checked out the wiki page that explained how popcorn handles the fault page 
+(link: https://github.com/ssrg-vt/popcorn-kernel/wiki/popcorn-page-fault-handling) However, I don't understand at which level (in which function) 
+the page is copied from node B (owner) to node A. I noticed that you are the person who edited the wiki page, 
+so I thought to contact you for more details and I couldn't find any other way to contact you than by sending you this message. Here is my email: ga_@esi.dz.
